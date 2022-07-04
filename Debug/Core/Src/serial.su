@@ -1,0 +1,13 @@
+../Core/Src/serial.c:14:6:serial_init	16	static
+../Core/Src/serial.c:24:10:serial_available	4	static
+../Core/Src/serial.c:36:10:send_available	4	static
+../Core/Src/serial.c:48:10:tx_available	4	static
+../Core/Src/serial.c:60:6:serial_read	16	static
+../Core/Src/serial.c:70:6:get_tx	16	static
+../Core/Src/serial.c:78:6:serial_flush	8	static
+../Core/Src/serial.c:82:6:serial_push	16	static
+../Core/Src/serial.c:89:6:put_tx	16	static
+../Core/Src/serial.c:102:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/serial.c:108:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/serial.c:121:10:get_back	4	static
+../Core/Src/serial.c:126:6:crc16_update	24	static
