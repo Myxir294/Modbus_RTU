@@ -12,3 +12,5 @@ The program is operated with the use of prepared dataframes, transmitted charact
 Further english descriptions will be added in the future.
 
 THE PROGRAM IS NOT A LITERAL INSTANCE OF MODBUS RTU PROTOCOL, IT JUST SHOWS ITS WORKING PRINCIPLES FOR EDUCATIONAL PURPOSES
+
+Used dataframes TBA
