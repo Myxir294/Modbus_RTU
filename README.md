@@ -4,7 +4,7 @@ The repository contains a project of Modbus-RTU industrial transmission protocol
 
 The program is operated with the use of prepared dataframes, transmitted character by character in a hexadecimal format, by the Realterm terminal. The end of dataframe (normally sygnalized by a specified timestamp) is simulated by artificial marking after sending the set number of characters. 
 
-Further english descriptions will be added in the future.
+Further descriptions will be added in the future.
 
 THE PROGRAM IS NOT A LITERAL INSTANCE OF MODBUS RTU PROTOCOL, IT JUST SHOWS ITS WORKING PRINCIPLES FOR EDUCATIONAL PURPOSES
 
